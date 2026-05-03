@@ -1,0 +1,2 @@
+# zadania_po_praktike2026
+praktika2026
